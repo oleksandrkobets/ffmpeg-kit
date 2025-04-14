@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.arthenica.ffmpegkit.flutter"
           xmlns:tools="http://schemas.android.com/tools">
-    <uses-sdk tools:overrideLibrary="com.arthenica:ffmpeg-kit"/>
+    <uses-sdk tools:overrideLibrary="com.arthenica:ffmpeg-kit-https:6.0-2"/>
     
 </manifest>
